@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_astrovim"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_astrovim"
+path = "src/lib.rs"
