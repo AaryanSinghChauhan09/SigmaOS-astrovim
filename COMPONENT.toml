@@ -3,7 +3,7 @@ name = "SigmaOS-astrovim"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "astrovim component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
